@@ -1,6 +1,6 @@
 # Tech Forum or A Company Blog
 
-- This is a Web Application with **CRUD** functionality. I used Atom to Develop this App. Web Development Framework was Flask, Database Toolkit & ORM was SQLAlchemy. Have used OOP thoroughly for the Database, Forms and Handlers. 
+- This is a Web Application with **CRUD** functionality. I Developed this App using Web Development Framework - Flask, Database Toolkit & ORM - SQLAlchemy and Bootstrap for Styling the Web Pages. Have used OOP thoroughly for the Database, Forms and Handlers. Atom is the editor I used during whole time.  
 
 - _There will be some more Feauters & UI Updates._ 
 
